@@ -1,0 +1,6 @@
+url: asdasd
+passphrase: asdasda
+sources:
+  - sentinels
+  - sniffers
+  - loopholes
